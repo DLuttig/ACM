@@ -3,10 +3,8 @@ C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debu
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.dll
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
-C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debug\ClassLibrary1.dll
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debug\ClassLibrary1.pdb
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csprojAssemblyReference.cache
@@ -14,3 +12,5 @@ C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\obj\Debu
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.dll
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
+C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debug\ACM.BL.dll
+C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\Tests\ACM.BLTest\bin\Debug\ACM.BL.pdb

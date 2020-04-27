@@ -1,6 +1,6 @@
-C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\ClassLibrary1\obj\Debug\ACM.BL.csprojAssemblyReference.cache
 C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\ClassLibrary1\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
-C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\ClassLibrary1\bin\Debug\ACM.BL.dll
+C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\ClassLibrary1\bin\Debug\ACM.BL.pdb
+C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\ClassLibrary1\obj\Debug\ACM.BL.dll
+C:\Users\djlut\OneDrive\Documents\workspace\ACM\ACM.BL\ClassLibrary1\obj\Debug\ACM.BL.pdb

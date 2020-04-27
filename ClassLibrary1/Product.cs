@@ -19,7 +19,7 @@ namespace ACM.BL
 
         public string ProductName { get; set; }
         public int ProductId { get; private set; }
-        public string Description { get; private set; }
+        public string Description { get; set; }
         public decimal? CurrentPrice { get; set; }
 
 
@@ -40,19 +40,5 @@ namespace ACM.BL
         ///<summary>
         /// Retrieve one product.
         ///</summary>
-        public Product Retrieve(int productId)
-        {
-            return new Product();
-        }
-
-        /// <summary>
-        /// Saves the current custermer.
-        /// </summary>
-        public bool Save()
-        {
-            // Code that Saves the defined product
-
-            return true;
-        }
     }
 }

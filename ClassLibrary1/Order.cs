@@ -18,7 +18,7 @@ namespace ACM.BL
         }
 
         public int OrderId { get; private set; }
-        public DateTimeOffset? OderDate { get; private set; }
+        public DateTimeOffset? OrderDate { get; set; }
 
         /// <summary>
         /// Validates the order data.
@@ -28,27 +28,9 @@ namespace ACM.BL
         {
             var isValid = true;
 
-            if (OderDate == null) isValid = false;
+            if (OrderDate == null) isValid = false;
 
             return isValid;
-        }
-
-        ///<summary>
-        /// Retrieve one product.
-        ///</summary>
-        public Order Retrieve(int OrderId)
-        {
-            return new Order();
-        }
-
-        /// <summary>
-        /// Saves the current product.
-        /// </summary>
-        public bool Save()
-        {
-            // Code that Saves the defined product
-
-            return true;
         }
     }
 }

@@ -5,7 +5,7 @@ using ACM.BL;
 namespace ACM.BLTest
 {
     [TestClass]
-    public class CustomerRepository
+    public class CustomerRepositoryTest
     {
         [TestMethod]
         public void RetrieveValid()
